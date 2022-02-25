@@ -14,7 +14,7 @@ The team:
 - [Dominduchami](https://github.com/Dominduchami) 
 - [Ivoszbg](https://github.com/Ivoszbg)
 - [FieryFlames](https://github.com/FieryFlames)
-- [RayyanAnsari](https://github.com/RayyanAnsari)
+- [Rayyan Ansari](https://ansari.sh/about)
 - [SebaUbuntu](https://github.com/SebaUbuntu)
 
 You can find us in our various chats on:
