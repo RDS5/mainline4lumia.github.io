@@ -8,6 +8,26 @@ paginate = 5
 [params]
   mainSections = ["posts"]
 
+  title = "Mainline4Lumia"
+  description = "Bringing Mainline Linux to your Lumias!"
+  images = [ "https://avatars.githubusercontent.com/u/86826507" ]
+
+  defaultTheme = "dark"
+  hideFooter = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Mainline4Lumia"
+    subtitle = "Bringing Mainline Linux to your Lumias!"
+    imageUrl = "https://avatars.githubusercontent.com/u/86826507"
+    imageWidth = 240
+    imageHeight = 240
+    imageTitle = "Mainline4Lumia"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Mainline4Lumia/"
+
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -19,3 +39,4 @@ paginate = 5
     name = "Devices"
     url = "/devices/"
     weight = 2
+
