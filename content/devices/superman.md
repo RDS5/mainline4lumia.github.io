@@ -1,6 +1,5 @@
 ---
-title: "Nokia/Microsoft Lumia 730"
-date: 2022-01-01
+title: "Nokia/Microsoft Lumia 730/735"
 draft: false
 ---
 

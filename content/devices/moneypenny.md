@@ -1,6 +1,5 @@
 ---
-title: "Nokia Lumia 630"
-date: 2022-01-01
+title: "Nokia Lumia 630/632/635/638"
 draft: false
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Nokia Lumia 830"
-date: 2022-01-01
 draft: false
 ---
 

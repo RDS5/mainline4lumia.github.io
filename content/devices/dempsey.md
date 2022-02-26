@@ -1,6 +1,5 @@
 ---
 title: "Microsoft Lumia 640"
-date: 2022-01-01
 draft: false
 ---
 
