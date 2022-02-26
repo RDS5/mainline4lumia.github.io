@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Lumia 640 XL"
-draft: false
+summary: "(makepeace)"
 ---
 
 ![Microsoft Lumia 640 XL front and back](/img/makepeace.png)
