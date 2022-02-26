@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Lumia 640 XL"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![Microsoft Lumia 640 XL front and back](/img/makepeace.png)
@@ -13,7 +13,7 @@ draft: true
 | WiFi | No |
 | Battery statistics | No |
 | Charging | No |
-| Accel/Gyro | Yes |
+| Accel/Gyro | No |
 | Audio | No |
 | Bluetooth | No |
 | Camera | No |
@@ -31,4 +31,4 @@ Camera flash is using PMIC VFLASH
 
 # Installation
 
-Refer to the SD400 guide
+Guide coming sometime in March 2022

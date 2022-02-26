@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Lumia 640"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![Microsoft Lumia 640 front and back](/img/dempsey.png)
@@ -31,4 +31,4 @@ Camera flash is using PMIC VFLASH
 
 # Installation
 
-Refer to the SD400 guide
+Guide coming sometime in March 2022

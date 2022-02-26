@@ -1,7 +1,7 @@
 ---
 title: "Nokia/Microsoft Lumia 730"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![Nokia Lumia 730 front and back](/img/superman.jpg)
@@ -29,4 +29,4 @@ draft: true
 
 # Installation
 
-Refer to the SD400 guide
+Guide coming sometime in March 2022

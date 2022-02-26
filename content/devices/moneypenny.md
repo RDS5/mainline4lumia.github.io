@@ -1,7 +1,7 @@
 ---
 title: "Nokia Lumia 630"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![Nokia Lumia 630 front and back](/img/moneypenny.png)
@@ -29,4 +29,4 @@ draft: true
 
 # Installation
 
-Refer to the SD400 guide
+Guide coming sometime in March 2022

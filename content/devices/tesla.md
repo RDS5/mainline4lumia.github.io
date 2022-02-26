@@ -1,7 +1,7 @@
 ---
 title: "Nokia Lumia 830"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![Nokia Lumia 830 front and back](/img/tesla.png)
@@ -31,4 +31,4 @@ The capacitive buttons are not supported right now. This needs a driver for Syna
 
 # Installation
 
-Refer to the SD400 guide
+Guide coming sometime in March 2022
