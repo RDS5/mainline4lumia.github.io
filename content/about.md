@@ -1,6 +1,5 @@
 +++
 title = "About us"
-description = "About Mainline4Lumia"
 aliases = ["about-us", "contact"]
 +++
 We are a team of 5 working on mainlining various Nokia & Microsoft Lumia phones.
@@ -23,4 +22,4 @@ You can find us in our various chats on:
 - [Matrix](https://matrix.to/#/#mainline4lumia:matrix.org)
 - [Telegram](https://t.me/mainline4lumia)
 
-(they are all bridged to eachother so just use whichever platform you prefer)
+They are all bridged to each other - just use whichever platform you prefer.
