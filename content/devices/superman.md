@@ -3,7 +3,7 @@ title: "Nokia/Microsoft Lumia 730/735"
 summary: "(superman)"
 ---
 
-![Nokia Lumia 730 front](/img/superman.md)
+![Nokia Lumia 730 front](/img/superman.png)
 # Support matrix
 | Feature | Supported |
 | --- | ----------- |
