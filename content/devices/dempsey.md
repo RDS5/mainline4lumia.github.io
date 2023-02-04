@@ -30,4 +30,4 @@ Camera flash is using PMIC VFLASH
 
 # Installation
 
-Guide coming sometime in March 2022
+FIXME
